@@ -2,10 +2,11 @@
 
 var toPrint = "print me";
 
-function print(out) {
+function print(out){
     var stringToPrint = out;
     console.log(stringToPrint);
-    console.log(toPrint);
 }
 
-print('Hello');
+randomVariable = 23;
+print("Hello");
+console.log(stringToPrint);
